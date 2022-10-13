@@ -1,0 +1,4 @@
+aqui esta mi usuario y password
+no compartir por favor
+user= user123
+pass=123456abc
